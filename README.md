@@ -1,2 +1,2 @@
-# 2024-Web-Development-Bootcamp
+# Web-Development-Bootcamp
  By Dr. Angela Yu, Developer and Lead Instructor
